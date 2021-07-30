@@ -14,6 +14,9 @@ In this project we have used Convolutional Neural Networks(CNN) to train a model
 ## Link to the Video Demonstration
 [Video Demo of the Malaria Datatset](https://drive.google.com/drive/folders/1CkN0biffm_0wzgUI4sOAGr4FSvM7MyIn?usp=sharing)
 
+## Link to the Video Feedback
+[Video Demo of the Malaria Datatset](https://drive.google.com/drive/folders/1IOXtGYdLyfDZ3P33xBOvgyMHD0-tUGeh?usp=sharing)
+
 ## Libraries Used
 - Tensorflow
 - Keras
